@@ -24,4 +24,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=LangGraph&logoColor=white)
 
+## 📚 Education
+- KT AIVLE-EDU(Data Analysis & AI)
+- 멋쟁이사자처럼(Django - 백엔드 개발)
+
+## 🪪 Certifications
+- AICE Associate - 2025.02
+- 정보처리기사 - 2024.09
+- 데이터분석준전문가(ADsP) - 2024.09
+- SQL개발자(SQLD) - 2024.09
+- 초경량비행장치 조종자 1종 - 2019.04
+
 ## 👀 Projects
+
+
+## 📧 Contact
+unknownyh98@gmail.com
