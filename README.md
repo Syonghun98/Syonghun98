@@ -22,6 +22,6 @@
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Langgraph](https://img.shields.io/badge/Langchain-000000?style=flat-square&logo=Langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=LangGraph&logoColor=white)
 
 ## 👀 Projects
