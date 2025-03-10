@@ -43,6 +43,7 @@
 - LangChain: PDF 이력서 및 자기소개서에서 핵심 정보 자동 추출 및 임베딩
 - LangGraph: 기업의 평가 기준과 과거 데이터 반영한 지원자 역량 분석
 - RAG 기법: 정량화된 점수화 및 맞춤형 질문 생성
+- [Go to Repository](https://github.com/Aivle08)
 
 ## 📧 Contact
 unknownyh98@gmail.com
