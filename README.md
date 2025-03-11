@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Yonghun%20GitHub&fontSize=50)
 
-# Data Analyst | Recommendation System Developer/Engineer
+## Data Analyst | Recommendation System Developer/Engineer
 
 
 ## 😜 About Me 😉
