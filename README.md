@@ -42,7 +42,7 @@
 - 사용 데이터: 애니메이션 정보(anime.csv), 사용자 평점 데이터(rating.csv)
 - 주요 기법: 데이터 전처리(-1 제거, 결측값 처리), 협업 필터링, 콘텐츠 기반 추천, SVD 모델
 - 결과: 사용자 입력 기반 추천 결과 제공, 추후 Full Matrix 구조 메모리 문제 해결 방안 모색
--[Go to Repository](https://github.com/Syonghun98/Animation_Recommendation_System)
+- [Go to Repository](https://github.com/Syonghun98/Animation_Recommendation_System)
 
 ### PICK UP: 채용 어시스턴트 프로젝트(2024.12 ~ 2025.02)
 기업의 채용 프로세스를 효율적으로 개선하여 업무 부담을 줄이고 객관적인 지원자 평가를 제공
