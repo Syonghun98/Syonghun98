@@ -52,13 +52,6 @@
 - LangGraph: 기업의 평가 기준과 과거 데이터 반영한 지원자 역량 분석
 - RAG 기법: 정량화된 점수화 및 맞춤형 질문 생성
 - [Go to Repository](https://github.com/Aivle08)
-
-### 서울시 대중교통 수요 분석 (2024.09 ~ 2024.09)
-서울시 대중교통 데이터를 분석하여 신규 버스 정류장 위치를 선정
-- Data: 버스 승하차 정보, 유동인구, 주민등록, 업종 데이터
-- Techniques: 변수 분석, 가설 검증, 최적 정류장 위치 선정
-- Results: 신규 정류장 위치 제안 및 데이터 기반 의사결정
-- [Go to Repository](https://github.com/Syonghun98/KT_Aivle_School_Project)
   
 ### 센서 데이터를 활용한 자세 예측 모델 개발 (2024.11 ~ 2024.11)
 - Data: 가속도, 자이로스코프 센서 데이터 (6개 행동)
@@ -70,6 +63,13 @@
 - Data: 국토교통부 및 SGIS 데이터를 활용한 신규 아파트 단지 주차 수요 예측
 - Techniques: KNN, 회귀, DecisionTree, RandomForest, LGB, XGB(GridSearch 최적화)
 - Results: 적정 주차공간 예측 및 데이터 기반 도시 계획 가능성 탐구
+- [Go to Repository](https://github.com/Syonghun98/KT_Aivle_School_Project)
+
+### 서울시 대중교통 수요 분석 (2024.09 ~ 2024.09)
+서울시 대중교통 데이터를 분석하여 신규 버스 정류장 위치를 선정
+- Data: 버스 승하차 정보, 유동인구, 주민등록, 업종 데이터
+- Techniques: 변수 분석, 가설 검증, 최적 정류장 위치 선정
+- Results: 신규 정류장 위치 제안 및 데이터 기반 의사결정
 - [Go to Repository](https://github.com/Syonghun98/KT_Aivle_School_Project)
 
 ## 📧 Contact
