@@ -39,9 +39,9 @@
 ## 👀 Projects
 ### 애니메이션 추천 시스템 개발 (2025.01 ~ 2025.01)
 캐글 데이터를 활용해 입력한 애니메이션과 유사한 애니메이션을 추천하는 모델 개발.
-- 사용 데이터: 애니메이션 정보(anime.csv), 사용자 평점 데이터(rating.csv)
-- 주요 기법: 데이터 전처리(-1 제거, 결측값 처리), 협업 필터링, 콘텐츠 기반 추천, SVD 모델
-- 결과: 사용자 입력 기반 추천 결과 제공, 추후 Full Matrix 구조 메모리 문제 해결 방안 모색
+- Data: 애니메이션 정보(anime.csv), 사용자 평점 데이터(rating.csv)
+- Techniques: 데이터 전처리(-1 제거, 결측값 처리), 협업 필터링, 콘텐츠 기반 추천, SVD 모델
+- Results: 사용자 입력 기반 추천 결과 제공, 추후 Full Matrix 구조 메모리 문제 해결 방안 모색
 - [Go to Repository](https://github.com/Syonghun98/Animation_Recommendation_System)
 
 ### PICK UP: 채용 어시스턴트 프로젝트(2024.12 ~ 2025.02)
