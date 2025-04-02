@@ -42,7 +42,7 @@ Dacon "채무 불이행 여부 예측" 해커톤에서 진행되었습니다.
 금융 데이터를 활용하여 고객의 채무 불이행 여부(0 또는 1)를 예측하는 분류 문제를 해결하는 것이 목표
 - Data: 금융 데이터 (대출 목적, 직장 근속 연수 등)
 - Techniques: 데이터 스케일링(StandardScaler), 변수 중요도 분석, CatBoost 최적화(Bayesian Search), 단층 신경망(MLP) 실험
-- Results: 데이콘 해커톤 12위 / 930명 중 (현재 진행 중), AUC 최고 성능 0.638, '대출 목적' 변수 제거 시 성능 향상
+- Results: 데이콘 해커톤 27위 / 1040명 중, AUC 최고 성능 0.638, '대출 목적' 변수 제거 시 성능 향상
 - [Go to Repository](https://github.com/Syonghun98/Debt_Default_Prediction_Dacon)
 
 ### 애니메이션 추천 시스템 개발 (2025.01 ~ 2025.01)
