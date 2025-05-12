@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Yonghun%20GitHub&fontSize=50)
 
-## Data Analyst
+# Data Analyst
 
 ## 😜 About Me 😉
 데이터를 통해 사용자의 숨겨진 니즈를 발견하고 데이터 기반의 의사결정에 도움을 주는 것을 목표로 합니다. Python, SQL, 머신러닝, 딥러닝 기술을 활용하여 데이터를 분석하고 인사이트 발굴에 기여하고자 합니다. 다양한 프로젝트 경험을 통해 데이터 분석에 필요한 실무 역량을 키우고 있으며 앞으로도 끊임없이 배우고 성장하여 사용자에게 최고의 가치를 제공하는 개발자가 되겠습니다.
