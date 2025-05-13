@@ -36,11 +36,20 @@
 - 초경량비행장치 조종자 1종 - 2019.04
 
 ## 👀 Projects
+### 실험군 vs 대조군 수익성 비교 A/B 테스트 분석
+실험군(variant)과 대조군(control) 간의 사용자 수익(REVENUE)에 차이가 있는지를 평가하기 위한 A/B 테스트 실험 결과를 분석
+- Data: Kaggle [A/B test data](https://www.kaggle.com/datasets/sergylog/ab-test-data/data)
+- 목표: variant가 control보다 수익성이 높은지 확인
+- 가설: 귀무가설(H0): Control의 수익 == Variant의 수익 / 대립가설(H1): Variant의 수익 > Control의 수익
+- 기술: EDA, 중복 제거, Mann–Whitney U 검정
+- 결과: 정규분포를 따르지 않음 / p-value > 0.05 → 귀무가설 기각 불가 / 수익의 차이는 통계적으로 유의하지 않음
+- [Go to Repository](https://github.com/Syonghun98/ab-testing-revenue-comparison)
+
 ### 랜딩 페이지 전환율 A/B 테스트 분석
 기존 페이지와 새로운 랜딩 페이지 간 전환율 비교를 위한 데이터 분석
 - Data: Kaggle [A/B testing](https://www.kaggle.com/datasets/zhangluyuan/ab-testing)
 - 목표: new_page가 old_page보다 전환율이 높은지 확인
-- 가설: H0: new_page ≤ old_page / H1: new_page > old_page
+- 가설: H0: new_page == old_page / H1: new_page > old_page
 - 기술: EDA, 그룹/페이지 불일치 제거, 중복 제거, 카이제곱 검정
 - 결과: p-value > 0.05 → 귀무가설 기각 불가 / 전환율 차이는 통계적으로 유의하지 않음
 - [Go to Repository](https://github.com/Syonghun98/ab-testing-conversion-rate-analysis)
@@ -82,11 +91,6 @@ Dacon "채무 불이행 여부 예측" 해커톤에서 진행되었습니다.
 - RAG 기법: 정량화된 점수화 및 맞춤형 질문 생성
 - [Go to Repository](https://github.com/Aivle08)
   
-### 센서 데이터를 활용한 자세 예측 모델 개발
-- Data: 가속도, 자이로스코프 센서 데이터 (6개 행동)
-- 기술: Feature 선정(Random Forest), 딥러닝 모델 설계, 과적합 방지(Dropout, L2 규제)
-- 결과: 모델 정확도 97% 달성
-- [Go to Repository](https://github.com/Syonghun98/KT_Aivle_School_Project)
 
 ## 📧 Contact
 unknownyh98@gmail.com
